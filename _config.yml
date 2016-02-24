@@ -1,0 +1,28 @@
+name: ALEJANDRO
+favicon: null
+layout_spectrum: 0.06720561813563108
+typography_spectrum: 0.07796425698325038
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5298153047915548
+  lightness: 0.06471497588790953
+  saturation: 0.6396939428523183
+  rhythmicContrast: 0.8715892897453159
+purpose: []
